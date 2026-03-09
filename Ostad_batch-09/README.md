@@ -1,7 +1,8 @@
 # Django Todo App
 
 A complete Todo web application built with Django, featuring a modern UI with Tailwind CSS.
-
+## 🚀 Live Demo
+[View Deployed App](https://devops-module2-assignment.onrender.com/)
 ## Features
 
 - ✅ Create, Read, Update, and Delete tasks
